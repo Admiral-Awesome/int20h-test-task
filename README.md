@@ -5,7 +5,7 @@
 Делается запрос по апи 1+1 для получение программі, парсится, делается png и pdf и в автоматизированом порядке сбрасывается в группу , с помощью api vk, 
 постит в группу https://vk.com/club140406955
 
-пример вывода 
+пример вывода <br>
 ******************STARTED******************** <br>
 get program 1+1.....: 163.063ms <br>
 html file generated  <br>
@@ -17,7 +17,7 @@ EVETHING done in....:: 15203.128ms <br>
 ******************FINISHED********************<br>
 
 
-stack : nodejs + sails.js 
- вся логика тут - services/WorkerService.js
-## team Unicorn rainbow
+stack : nodejs + sails.js <br>
+ вся логика тут - services/WorkerService.js <br>
+## team Unicorn rainbow <br>
 
