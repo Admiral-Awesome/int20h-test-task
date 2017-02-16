@@ -18,6 +18,6 @@ EVETHING done in....:: 15203.128ms <br>
 
 
 stack : nodejs + sails.js <br>
- вся логика тут - services/WorkerService.js <br>
+ вся логика тут - api/services/WorkerService.js <br>
 ## team Unicorn rainbow <br>
 
